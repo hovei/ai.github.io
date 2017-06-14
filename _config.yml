@@ -1,19 +1,19 @@
 # Site settings
-title: Xzy Blog
-SEOTitle: 薛泽云的博客 | Xzy Blog
+title: hovei Blog
+SEOTitle: 呼宏伟的博客 | Xzy Blog
 header-img: img/home-bg.jpg
 email: 2356825441@qq.com
-url: "https://xuezy.github.io"              # your host, for absolute URL
+url: "https://hovei.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     xzy
-zhihu_username:     xzy
-github_username:    xzy
-twitter_username:   xzy
+weibo_username:     hovei
+zhihu_username:     hovei
+github_username:    hovei
+twitter_username:   hovei
 #facebook_username:  xzy
 # linkedin_username:  firstname-lastname-idxxxx
 
@@ -46,13 +46,13 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: xzy
+disqus_username: hovei
 
 # Netease setttings
 netease_comment: true
 
 # Duoshuo settings
-duoshuo_username: xzyblog
+duoshuo_username: hoveiblog
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -65,7 +65,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: xuezy.github.io
+ga_domain: hovei.github.io
 
 
 
